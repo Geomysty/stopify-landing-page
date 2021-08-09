@@ -1,2 +1,6 @@
 baseURL: https://geomysty.github.io/stopify-landing-page/
 title: Stopify - Github Pages
+deployment:
+  targets:
+    name : "Stopify"
+    URL : "s3://stopify-20210804071346562200000001?region=eu-west-3"
